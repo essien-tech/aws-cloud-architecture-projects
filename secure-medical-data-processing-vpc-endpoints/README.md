@@ -1,5 +1,11 @@
 # Secure Medical Data Processing Infrastructure on AWS Using VPC Endpoints
 
+🎯 Problem Statement
+Organizations handling sensitive data like Hospitals require secure, private communication within cloud environments without exposing traffic to the public internet, reducing the risk of interception and ensuring compliance.
+
+💡 Solution
+Designed a VPC architecture leveraging interface and gateway endpoints to enable private, secure communication between AWS services without internet exposure.
+
 ## Project Overview
 
 This project demonstrates how to design a **secure cloud architecture that allows a private EC2 instance to access Amazon S3 without traversing the public internet**.
